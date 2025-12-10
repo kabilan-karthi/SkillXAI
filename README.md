@@ -80,8 +80,7 @@ It showcases how to build a **production-ready AI application** using a powerful
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/ai-career-coach.git
-cd ai-career-coach
+git clone https://github.com/kabilan-karthi/SkillXAI.git
 ````
 
 ### 2️⃣ Install Dependencies
