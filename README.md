@@ -200,13 +200,4 @@ Licensed under the **MIT License**.
 
 ---
 
-## ⭐ Support
 
-If you like this project, consider giving it a **🌟 star** on GitHub!
-
-```
-
----
-
-If you want, I can **add badges, GIF demo previews, deployment guide, Vercel deployment instructions**, or improve it further.
-```
