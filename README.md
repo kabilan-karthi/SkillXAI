@@ -161,16 +161,6 @@ App runs at:
 
 ---
 
-## 🚀 Roadmap
-
-* Resume PDF Export
-* Mock AI Interview Calls
-* Job Recommendation Engine
-* LinkedIn Profile Analyzer
-* Salary Estimation Insights
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome!
