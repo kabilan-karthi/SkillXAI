@@ -8,6 +8,11 @@ The platform helps users with:
 
 ---
 
+## 🎥 Demo Video
+
+Check out the working demo of **AI Career Coach**:  
+[Watch Demo on Google Drive](https://drive.google.com/file/d/1AOZoLjnJSr3Knaes9dxhy1WEY1LkCXeq/view?usp=drivesdk)
+
 ## 🌟 Overview
 
 This application acts as a **personal career mentor**, providing insights, coaching suggestions, resume improvements, and cover letters tailored to any job description or role.
