@@ -1,9 +1,3 @@
-Absolutely — here is a clean, professional and **high-quality README.md** suitable for GitHub.
-You can copy-paste directly.
-
----
-
-```markdown
 # 🚀 Full Stack AI Career Coach
 
 A modern AI-powered career guidance platform built with **Next.js**, **Neon DB**, **Prisma**, **Tailwind**, **Inngest**, and **shadcn/ui**.  
@@ -103,12 +97,14 @@ yarn install
 Create a `.env` file:
 
 ```env
-DATABASE_URL="YOUR_NEON_DB_URL"
-AI_API_KEY="YOUR_OPENAI_OR_GEMINI_KEY"
-
-# inngest configuration (optional if used)
-INNGEST_EVENT_KEY="xxx"
-INNGEST_SIGNING_KEY="xxx"
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
+CLERK_SECRET_KEY=
+NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
+NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
+NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/onboarding
+NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/onboarding
+GEMINI_API_KEY=
+DATABASE_URL=
 ```
 
 ---
